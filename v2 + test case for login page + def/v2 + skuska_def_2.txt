@@ -1,0 +1,7 @@
+Spaghetti kod + skuska_def_2 
+
+def login(driver)
+def tearDown(driver)
+def alert_text(driver)
+def invalid_login(driver)
+def login_btn(driver)
